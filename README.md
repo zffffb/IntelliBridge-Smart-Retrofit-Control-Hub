@@ -1,4 +1,3 @@
-# IntelliBridge-Smart-Retrofit-Control-Hub
 # IntelliBridge: Smart Retrofit & Control Hub
 
 ## 项目简介
